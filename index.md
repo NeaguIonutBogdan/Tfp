@@ -73,7 +73,7 @@
 	<div class="cepredam">
 		<h1>Așadar, Vrei Să <span style="color:#00B16A">Te Faci Programator</span>?</h1>
 		<p>Îți punem la dispoziție cele mai bune resurse, pregătire specializată, cerințele din piața reală pentru a ajunge la potențialul tău maxim și pentru a fi foarte aproape de o carieră de programator. Rămâne doar ca tu să vrei să te auto-depășești!</p>
-			<div class="imagineverde"><img src="01.png"></div>
+			<div class="imagineverde"><img src="01.PNG"></div>
 		<p>"Computer programming is quickly becoming an essential career skill. Learning to code is a fantastic opportunity equalizer—if you’re good at it, it can help you achieve your dreams."</p>
 	</div>
 	<br>
